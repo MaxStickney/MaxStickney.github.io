@@ -1,0 +1,22 @@
+h1 { color: blue; }
+a { color: darkred;
+    text-decoration: none }
+a:hover { color: brown }
+
+body {
+	background: lightblue;
+	color: brown;
+	font-size: 16pt;
+	font-family: 'Kameron', serif;
+}
+table {
+    border: 1px solid black;
+}
+table {
+    width: 50%;
+}
+
+th {
+    height: 50px;
+}
+
